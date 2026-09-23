@@ -82,9 +82,7 @@ The project handles both:
 
 ---
 
-## Project Architecture
-
-`FMCG-pipeline/Screenshots/FMCG-Architecture.png`
+![Project Architecture](FMCG-pipeline/Screenshots/FMCG-Architecture.png)
 
 ## Project Data Model
 
