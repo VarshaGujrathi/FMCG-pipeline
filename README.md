@@ -82,19 +82,21 @@ The project handles both:
 
 ---
 
+## Project Architexture
+
 ![Project Architecture](FMCG-pipeline/Screenshots/FMCG-Architecture.png)
 
 ## Project Data Model
 
-`FMCG-pipeline/Screenshots/Data_Modeling.png`
+![Project Data Model](FMCG-pipeline/Screenshots/Data_Modeling.png)
 
 ## Job Pipeline
 
-`FMCG-pipeline/Screenshots/FMCG-Job-Pipeline.png`
+![Job Pipeline](FMCG-pipeline/Screenshots/FMCG-Job-Pipeline.png)
 
 ## Performance Dashboard
 
-`FMCG-pipeline/Screenshots/Sales_dashboard.pdf`
+![Performance Dashboard](FMCG-pipeline/Screenshots/Sales_dashboard.pdf)
 
 ---
 
