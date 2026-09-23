@@ -82,7 +82,7 @@ The project handles both:
 
 ---
 
-## Project Architexture
+## Project Architecture
 
 ![Project Architecture](FMCG-pipeline/Screenshots/FMCG-Architecture.png)
 
