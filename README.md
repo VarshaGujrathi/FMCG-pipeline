@@ -96,7 +96,7 @@ The project handles both:
 
 ## Performance Dashboard
 
-![Performance Dashboard](FMCG-pipeline/Screenshots/Sales_dashboard.pdf)
+![Performance Dashboard](FMCG-pipeline/Screenshots/Performance_Dashboard.png)
 
 ---
 
